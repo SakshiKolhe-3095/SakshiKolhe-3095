@@ -345,11 +345,6 @@ class SakshiKolhe:
 | 🌾 | **Pune Agri Hackathon** — Participant | Pune Agri | 2025 |
 | ⚡ | **ACM Logistics Head** | ACM Utkarsh Chapter | 2025 |
 | 🤖 | **RAG with Embeddings & Vector DBs** | Scrimba | 2026 |
-| 📊 | **Data Analytics with Mathematical Statistics** | CISR & SCSEA | 2025 |
-| 🔬 | **Introduction to Data Science** | Infosys Springboard | 2025 |
-| 🧠 | **AI Aware + Appreciate Badges** | CBSE & Intel | 2025 |
-| ☁️ | **Bring AI to Work Workshop** | Google Workspace | 2025 |
-| 💻 | **Programming in C** | DYPIU | 2023 |
 
 </div>
 
@@ -374,12 +369,14 @@ class SakshiKolhe:
   │
   ├─── 2025     ──▶  🏠  Predictive AI for Home Device Failure (ROC-AUC 0.98)
   │
-  ├─── 2025     ──▶  ⚡  ACM Logistics Head — ACM Utkarsh Chapter
+  ├─── 2026     ──▶  ⚡  ACM Logistics Head — ACM Utkarsh Chapter
   │
-  ├─── Jan 2026 ──▶  🔬  AI Research Intern @ MIT-WPU
+  ├─── Mar 2026 ──▶  🏆  Academic Excellence Award — DYPIU
+  │
+  ├─── May 2026 ──▶  📈  SGPA 9.19
+  │
+  ├─── May 2026 ──▶  🔬  AI Research Intern @ MIT-WPU
   │                       ↳ Domain: Video Processing & Explainable AI (ongoing)
-  │
-  ├─── 2026     ──▶  🏆  Academic Excellence Award — DYPIU | SGPA 9.19
   │
   └─── 2027     ──▶  🚀  B.Tech Graduation · Building next-generation AI systems
 ```
