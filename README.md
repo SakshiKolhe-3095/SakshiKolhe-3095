@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,20:1a0035,45:3d0070,70:7b2fa8,90:a855f7,100:c084fc&height=300&section=header&text=SAKSHI%20KOLHE&fontSize=78&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder%20%E2%80%A2%20Agentic%20AI&descAlignY=62&descSize=19&animation=fadeIn&stroke=c084fc&strokeWidth=1.5"/>
@@ -480,4 +479,3 @@ Status:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,30:a855f7,60:7c3aed,85:3d0070,100:0a0015&height=140&section=footer"/>
 
 </div>
-```
