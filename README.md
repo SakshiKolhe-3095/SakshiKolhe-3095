@@ -1,4 +1,4 @@
-````md id="n0r7mv"
+id="n0r7mv"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B1026,60:132238,100:1E3A5F&height=240&section=header&text=Sakshi%20Kolhe&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Responsible%20AI%20•%20Full-Stack%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
@@ -322,4 +322,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,50:132238,100:050816&height=120&section=footer"/>
 
 </div>
-```
