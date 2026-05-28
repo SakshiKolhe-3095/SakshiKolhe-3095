@@ -394,8 +394,11 @@ class SakshiKolhe:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiKolhe-3095&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&text_color=ffffff&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiKolhe-3095&bg_color=0a0015&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiKolhe-3095&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&text_color=ffffff&langs_count=8" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiKolhe-3095&bg_color=0a0015&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 <br/><br/>
 
