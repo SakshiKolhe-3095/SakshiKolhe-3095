@@ -389,12 +389,12 @@ class SakshiKolhe:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakshiKolhe-3095&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&icon_color=c084fc&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiKolhe-3095&theme=tokyonight&hide_border=true&background=0a0015&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiKolhe-3095&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&icon_color=c084fc&text_color=ffffff&rank_icon=github&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=SakshiKolhe-3095&theme=tokyonight&hide_border=true&background=0a0015&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiKolhe-3095&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&text_color=ffffff&langs_count=8" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiKolhe-3095&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0015&title_color=a855f7&text_color=ffffff&langs_count=8&cache_seconds=1800" width="60%"/>
 
 <br/><br/>
 
