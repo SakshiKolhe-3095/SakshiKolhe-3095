@@ -205,8 +205,8 @@ class SakshiKolhe:
 
 **Status:** 🟢 Production Ready
 
-[![Stars](https://img.shields.io/github/stars/SakshiKolhe-3095/EquiPath?style=flat-square&color=a855f7&labelColor=1a0035&label=⭐)](https://github.com/SakshiKolhe-3095/EquiPath)
-[![Repo](https://img.shields.io/badge/View_Repo-→-c084fc?style=flat-square&labelColor=1a0035)](https://github.com/SakshiKolhe-3095/EquiPath)
+[![Stars](https://img.shields.io/github/stars/SakshiKolhe-3095/equipath?style=flat-square&color=a855f7&labelColor=1a0035&label=⭐)](https://github.com/SakshiKolhe-3095/equipath)
+[![Repo](https://img.shields.io/badge/View_Repo-→-c084fc?style=flat-square&labelColor=1a0035)](https://github.com/SakshiKolhe-3095/equipath)
 
 `AI Governance` `Responsible ML` `Explainable AI`
 
@@ -277,7 +277,10 @@ class SakshiKolhe:
 
 <br/>
 
-**Status:** 🟢 Research Completed
+**Status:** 🟢 Deployed
+
+[![Stars](https://img.shields.io/github/stars/SakshiKolhe-3095/Attention-Based-Organ-Boundary-Detection?style=flat-square&color=a855f7&labelColor=1a0035&label=⭐)](https://github.com/SakshiKolhe-3095/Attention-Based-Organ-Boundary-Detection)
+[![Repo](https://img.shields.io/badge/View_Repo-→-c084fc?style=flat-square&labelColor=1a0035)](https://github.com/SakshiKolhe-3095/Attention-Based-Organ-Boundary-Detection)
 
 `Deep Learning` `Medical AI` `Computer Vision`
 
@@ -399,11 +402,7 @@ class SakshiKolhe:
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshiKolhe-3095/SakshiKolhe-3095/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshiKolhe-3095/SakshiKolhe-3095/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SakshiKolhe-3095/SakshiKolhe-3095/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/SakshiKolhe-3095/SakshiKolhe-3095/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
 
