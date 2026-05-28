@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,20:1a0035,45:3d0070,70:7b2fa8,90:a855f7,100:c084fc&height=300&section=header&text=Sakshi%20Kolhe&fontSize=78&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder%20%E2%80%A2%20Agentic%20AI&descAlignY=62&descSize=19&animation=fadeIn&stroke=c084fc&strokeWidth=1.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,20:1a0035,45:3d0070,70:7b2fa8,90:a855f7,100:c084fc&height=300&section=header&text=Sakshi%20Kolhe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Builder%20%E2%80%A2%20Agentic%20AI&descAlignY=62&descSize=19&animation=fadeIn&stroke=c084fc&strokeWidth=1.5" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=860&lines=Building+AI+systems+that+are+smart%2C+fair+%26+deployable+%F0%9F%A4%96;ROC-AUC+%E2%89%88+0.98+%7C+Fairness+0.31+%E2%86%92+0.81+%7C+IoU+0.7533;AI+Research+Intern+%40+MIT-WPU+%7C+SWE+%40+Mechtronix+Industries;MERN+%7C+TensorFlow+%7C+FastAPI+%7C+Agentic+AI+%7C+Responsible+AI;Driven+by+curiosity+%26+creativity+%E2%80%94+always+building+%F0%9F%9A%80"/>
