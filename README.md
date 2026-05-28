@@ -398,7 +398,7 @@ class SakshiKolhe:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiKolhe-3095&bg_color=0a0015&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshiKolhe-3095&bg_color=0a0015&color=a855f7&line=c084fc&point=ffffff&area=true&hide_border=true" width="49%"/>
 
 <br/><br/>
 
