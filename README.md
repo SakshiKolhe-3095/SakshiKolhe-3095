@@ -341,10 +341,10 @@ class SakshiKolhe:
 |:---:|:---|:---|:---:|
 | 🥇 | **Academic Excellence Award Holder** — Top Academic Performance | DYPIU | 2026 |
 | 📈 | **SGPA 9.19** | DYPIU | 2026 |
-| 🛒 | **Walmart Sparkathon Converge** — Certificate of Appreciation | Walmart Global Tech | 2025 |
-| 🌾 | **Pune Agri Hackathon** — Participant | Pune Agri | 2025 |
-| ⚡ | **ACM Logistics Head** | ACM Utkarsh Chapter | 2025 |
+| 🌾 | **Pune Agri Hackathon** — Participant | Pune Agri | 2026 |
+| ⚡ | **ACM Logistics Head** | ACM Utkarsh Chapter | 2026 |
 | 🤖 | **RAG with Embeddings & Vector DBs** | Scrimba | 2026 |
+| 🛒 | **Walmart Sparkathon Converge** — Certificate of Appreciation | Walmart Global Tech | 2025 |
 
 </div>
 
