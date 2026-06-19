@@ -1,0 +1,42 @@
+<svg width="100%" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#7c3aed"/>
+<stop offset="100%" stop-color="#22d3ee"/>
+</linearGradient>
+</defs>
+<rect width="900" height="320" rx="14" fill="#0a0015" stroke="#a855f7" stroke-opacity="0.4"/>
+<circle cx="28" cy="28" r="6" fill="#ff5f56"/><circle cx="50" cy="28" r="6" fill="#ffbd2e"/><circle cx="72" cy="28" r="6" fill="#27c93f"/>
+<text x="28" y="60" font-family="Consolas, monospace" font-size="13" fill="#67e8f9">root@sakshi-ai:~$ capability_scan --module=ai-engineer</text>
+
+<!-- bars -->
+<g font-family="Consolas, monospace" font-size="13" fill="#e9d5ff">
+<text x="28" y="100">AI / ML Systems</text>
+<rect x="280" y="88" width="560" height="14" rx="7" fill="#1a0035"/>
+<rect x="280" y="88" width="0" height="14" rx="7" fill="url(#barGrad)"><animate attributeName="width" from="0" to="526" dur="1.6s" fill="freeze"/></rect>
+<text x="850" y="100" text-anchor="end" fill="#22d3ee">94%</text>
+
+<text x="28" y="135">Full-Stack Engineering</text>
+<rect x="280" y="123" width="560" height="14" rx="7" fill="#1a0035"/>
+<rect x="280" y="123" width="0" height="14" rx="7" fill="url(#barGrad)"><animate attributeName="width" from="0" to="504" dur="1.6s" fill="freeze"/></rect>
+<text x="850" y="135" text-anchor="end" fill="#22d3ee">90%</text>
+
+<text x="28" y="170">Responsible / Explainable AI</text>
+<rect x="280" y="158" width="560" height="14" rx="7" fill="#1a0035"/>
+<rect x="280" y="158" width="0" height="14" rx="7" fill="url(#barGrad)"><animate attributeName="width" from="0" to="509" dur="1.6s" fill="freeze"/></rect>
+<text x="850" y="170" text-anchor="end" fill="#22d3ee">91%</text>
+
+<text x="28" y="205">Computer Vision</text>
+<rect x="280" y="193" width="560" height="14" rx="7" fill="#1a0035"/>
+<rect x="280" y="193" width="0" height="14" rx="7" fill="url(#barGrad)"><animate attributeName="width" from="0" to="465" dur="1.6s" fill="freeze"/></rect>
+<text x="850" y="205" text-anchor="end" fill="#22d3ee">83%</text>
+
+<text x="28" y="240">Agentic AI Systems</text>
+<rect x="280" y="228" width="560" height="14" rx="7" fill="#1a0035"/>
+<rect x="280" y="228" width="0" height="14" rx="7" fill="url(#barGrad)"><animate attributeName="width" from="0" to="476" dur="1.6s" fill="freeze"/></rect>
+<text x="850" y="240" text-anchor="end" fill="#22d3ee">85%</text>
+</g>
+
+<text x="28" y="285" font-family="Consolas, monospace" font-size="12" fill="#a855f7">&gt; status: <tspan fill="#22d3ee">ACTIVE</tspan> — all subsystems nominal</text>
+<circle cx="855" cy="281" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+</svg>
