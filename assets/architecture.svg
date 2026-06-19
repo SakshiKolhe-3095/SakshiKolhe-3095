@@ -1,0 +1,45 @@
+<svg width="100%" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="nodeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#1a0035"/><stop offset="100%" stop-color="#0a0015"/>
+</linearGradient>
+</defs>
+<rect width="1000" height="280" fill="#050008"/>
+
+<!-- connecting lines -->
+<g stroke="#7c3aed" stroke-width="1.5" fill="none" opacity="0.7">
+<path d="M150,140 H290"/>
+<path d="M430,140 H570"/>
+<path d="M710,140 H850"/>
+</g>
+<g fill="#22d3ee">
+<circle r="3"><animateMotion path="M150,140 H290" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle r="3"><animateMotion path="M430,140 H570" dur="1.6s" repeatCount="indefinite" begin="0.4s"/></circle>
+<circle r="3"><animateMotion path="M710,140 H850" dur="1.6s" repeatCount="indefinite" begin="0.8s"/></circle>
+</g>
+
+<!-- nodes -->
+<g font-family="Consolas, monospace" font-size="12" text-anchor="middle">
+<rect x="30" y="100" width="120" height="80" rx="10" fill="url(#nodeGrad)" stroke="#a855f7"/>
+<text x="90" y="135" fill="#67e8f9" font-size="20">📥</text>
+<text x="90" y="158" fill="#e9d5ff">Data Intake</text>
+
+<rect x="290" y="100" width="140" height="80" rx="10" fill="url(#nodeGrad)" stroke="#22d3ee">
+<animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+<text x="360" y="135" fill="#67e8f9" font-size="20">🧠</text>
+<text x="360" y="158" fill="#e9d5ff">Model Core</text>
+
+<rect x="570" y="100" width="140" height="80" rx="10" fill="url(#nodeGrad)" stroke="#a855f7"/>
+<text x="640" y="135" fill="#67e8f9" font-size="20">⚖️</text>
+<text x="640" y="158" fill="#e9d5ff">Fairness + XAI</text>
+
+<rect x="850" y="100" width="120" height="80" rx="10" fill="url(#nodeGrad)" stroke="#22d3ee">
+<animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+</rect>
+<text x="910" y="135" fill="#67e8f9" font-size="20">🚀</text>
+<text x="910" y="158" fill="#e9d5ff">Deployment</text>
+</g>
+
+<text x="500" y="240" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#a855f7" letter-spacing="1">INTAKE &#8594; LEARN &#8594; GOVERN &#8594; SHIP</text>
+</svg>
