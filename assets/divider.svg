@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#050008" stop-opacity="0"/>
+<stop offset="15%" stop-color="#a855f7"/>
+<stop offset="50%" stop-color="#22d3ee"/>
+<stop offset="85%" stop-color="#a855f7"/>
+<stop offset="100%" stop-color="#050008" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="60" fill="#050008"/>
+<line x1="0" y1="30" x2="1200" y2="30" stroke="url(#divGrad)" stroke-width="1.5"/>
+<g fill="#22d3ee">
+<circle cx="100" cy="30" r="3"><animate attributeName="cy" values="30;22;30" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="350" cy="30" r="3"><animate attributeName="cy" values="30;38;30" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="30" r="4" fill="#c084fc"><animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="850" cy="30" r="3"><animate attributeName="cy" values="30;22;30" dur="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1100" cy="30" r="3"><animate attributeName="cy" values="30;38;30" dur="2.6s" repeatCount="indefinite"/></circle>
+</g>
+<circle r="3" fill="#67e8f9"><animateMotion path="M0,30 L1200,30" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
